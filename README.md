@@ -54,7 +54,7 @@ cargo run --release
 ```
 ---
 
-## 📖 语法指南 (Syntax)
+## 语法指南 (Syntax)
 
 我们设计了一套符合直觉的语法，支持注释和分号分隔的定义。
 
@@ -123,4 +123,4 @@ cargo run --release
 
 ## 📄 开源协议
 
-MIT License
+[MIT](LICENSE.txt)  License
