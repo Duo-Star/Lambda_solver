@@ -120,6 +120,12 @@ cargo run --release
 ```
 
 ---
+## 群组
+<p align="center">
+  <img src="imgs/mf.png" width="25%" />
+</p>
+
+> MathForest 欢迎你的加入 - 663251235
 
 ## 📄 开源协议
 
