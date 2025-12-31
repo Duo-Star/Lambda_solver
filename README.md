@@ -6,8 +6,15 @@
 
 > **享受Lambda中的乐趣**
 
+<p align="center">
+  <img src="imgs/day.png" width="45%" />
+  <img src="imgs/ni.png" width="45%" />
+</p>
 
 ## ✨ 核心亮点
+<p align="center">
+  <img src="imgs/xil.gif" width="25%" />
+</p>
 
 ### 1. 宏定义系统
 告别手写枯燥的 `(\fx.f(f(x)))`！
@@ -26,11 +33,16 @@
 
 ---
 
+
 ## 🚀 快速上手 (Getting Started)
 
 ### 安装与运行
 
 你需要安装 [Rust](https://www.rust-lang.org/) 
+
+<p align="center">
+  <img src="imgs/rustxil.gif" width="25%" />
+</p>
 
 ```bash
 # 克隆仓库
@@ -40,13 +52,6 @@ cd Lambda_solver
 # 运行
 cargo run --release
 ```
-
-### 界面交互
-*   **左侧代码区**：编写你的定义和表达式。
-*   **右侧结果区**：查看 β-归约 (Beta Reduction) 的每一步推导。
-*   **控制栏**：支持“单步”和“完全归约”。
-*   **切换日/夜**：
-
 ---
 
 ## 📖 语法指南 (Syntax)
