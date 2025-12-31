@@ -121,12 +121,6 @@ cargo run --release
 
 ---
 
-## 🛠️ 技术栈 (Tech Stack)
-
-*   **Language**: [Rust](https://www.rust-lang.org/) (2021 edition)
-*   **GUI Framework**: [egui](https://github.com/emilk/egui) (Immediate Mode GUI)
-*   **Windowing**: [eframe](https://github.com/emilk/egui/tree/master/crates/eframe)
-
 ## 📄 开源协议
 
 MIT License
