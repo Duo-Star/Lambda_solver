@@ -1,0 +1,11 @@
+[package]
+name = "Lambda_solver"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+egui = "0.33.3"
+eframe = "0.33.3"
+rand = "0.8.5"
+
+
